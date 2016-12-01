@@ -1,0 +1,7 @@
+c:\users\s24-vp\documents\visual studio 2015\Projects\Purse\Purse\bin\Debug\Purse.exe.config
+<<<<<<< .mine
+D:\SVN\Team Purse\Purse\bin\Debug\Purse.exe.config
+||||||| .r16
+=======
+C:\Users\s24-vp\Desktop\Новая папка\Purse\bin\Debug\Purse.exe.config
+>>>>>>> .r25
